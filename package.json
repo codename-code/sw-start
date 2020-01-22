@@ -1,0 +1,19 @@
+{
+  "name": "star-wars-site",
+  "version": "1.0.0",
+  "description": "a site with star wars theme",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codename-code/sw-start.git"
+  },
+  "author": "Stratis Christodoulou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codename-code/sw-start/issues"
+  },
+  "homepage": "https://github.com/codename-code/sw-start#readme"
+}
