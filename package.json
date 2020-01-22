@@ -4,9 +4,9 @@
   "description": "a site with star wars theme",
   "main": "dist/index.js",
   "scripts": {
-      "test": "jest",
-      "build": "babel src -d dist",
-      "start": "npm run build && node dist/index"
+    "test": "jest",
+    "build": "babel src -d dist",
+    "start": "npm run build && node dist/index"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   "devDependencies": {
     "@babel/cli": "^7.8.3",
     "@babel/core": "^7.8.3",
-    "@babel/preset-env": "^7.8.3"
+    "@babel/preset-env": "^7.8.3",
+    "jest": "^25.1.0"
   }
 }
